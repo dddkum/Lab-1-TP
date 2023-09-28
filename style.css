@@ -1,0 +1,22 @@
+#object {
+  width: 50px;
+  height: 50px;
+  background-color: blue;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  display: none;
+  border-radius: 20%;
+}
+
+#pauseButton {
+  width: 200px;
+  height: 50px;
+  border: 1px solid black;
+  text-align: center;
+  cursor: pointer;
+  background-color: lightgrey;
+  position: absolute;
+  left: 47%;
+  top: 30%;
+}
